@@ -8,7 +8,7 @@ class FizzBuzz {
         int i = 1;
 
         while (i <= 100) {
-
+            // this is a comment
             // Find out which numbers divide i.
             i = doFizzBuzz(i);
         }
